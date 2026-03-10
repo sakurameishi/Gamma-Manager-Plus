@@ -1,0 +1,68 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Sakura meishi\\Desktop\\Gamma-Manager-master\\Gamma Manager\\Gamma Manager.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Sakura meishi\\Desktop\\Gamma-Manager-master\\Gamma Manager\\Gamma Manager.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Sakura meishi\\Desktop\\Gamma-Manager-master\\Gamma Manager\\Gamma Manager.csproj",
+        "projectName": "Gamma Manager",
+        "projectPath": "C:\\Users\\Sakura meishi\\Desktop\\Gamma-Manager-master\\Gamma Manager\\Gamma Manager.csproj",
+        "packagesPath": "C:\\Users\\Sakura meishi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Sakura meishi\\Desktop\\Gamma-Manager-master\\Gamma Manager\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "UsingMicrosoftNETSdk": false,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Sakura meishi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "System.Buffers": {
+              "target": "Package",
+              "version": "[4.5.1, )"
+            },
+            "System.Memory": {
+              "target": "Package",
+              "version": "[4.5.4, )"
+            },
+            "System.Resources.Extensions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "System.Runtime.CompilerServices.Unsafe": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          }
+        }
+      }
+    }
+  }
+}

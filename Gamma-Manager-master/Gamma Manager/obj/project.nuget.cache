@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "Dd7+MHRBn1k=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sakura meishi\\Desktop\\Gamma-Manager-master\\Gamma Manager\\Gamma Manager.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sakura meishi\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\Sakura meishi\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\Sakura meishi\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Sakura meishi\\.nuget\\packages\\system.resources.extensions\\6.0.0\\system.resources.extensions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Sakura meishi\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,23 @@
+C:\Users\Sakura meishi\Desktop\Gamma-Manager-master\Gamma Manager\obj\Release\Gamma Manager.csproj.AssemblyReference.cache
+C:\Users\Sakura meishi\Desktop\Gamma-Manager-master\Gamma Manager\obj\Release\Gamma_Manager.Window.resources
+C:\Users\Sakura meishi\Desktop\Gamma-Manager-master\Gamma Manager\obj\Release\Gamma_Manager.Properties.Resources.resources
+C:\Users\Sakura meishi\Desktop\Gamma-Manager-master\Gamma Manager\obj\Release\Gamma Manager.csproj.GenerateResource.cache
+C:\Users\Sakura meishi\Desktop\Gamma-Manager-master\Gamma Manager\obj\Release\Gamma Manager.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sakura meishi\Desktop\Gamma-Manager-master\Gamma Manager\obj\Release\Gamma Manager.exe.config
+C:\Users\Sakura meishi\Desktop\Gamma-Manager-master\Gamma Manager\obj\Release\Gamma Manager.csproj.CoreCompileInputs.cache
+C:\Users\Sakura meishi\Desktop\Gamma-Manager-master\Gamma Manager\obj\Release\Gamma Manager.exe
+C:\Users\Sakura meishi\Desktop\Gamma-Manager-master\Gamma Manager\obj\Release\Gamma Manager.pdb
+C:\Users\Sakura meishi\Desktop\Gamma-Manager-master\Gamma Manager\bin\Release\x86\Gamma Manager.exe.config
+C:\Users\Sakura meishi\Desktop\Gamma-Manager-master\Gamma Manager\bin\Release\x86\Gamma Manager.exe
+C:\Users\Sakura meishi\Desktop\Gamma-Manager-master\Gamma Manager\bin\Release\x86\Gamma Manager.pdb
+C:\Users\Sakura meishi\Desktop\Gamma-Manager-master\Gamma Manager\bin\Release\x86\System.Resources.Extensions.xml
+C:\Users\Sakura meishi\Desktop\Gamma-Manager-master\Gamma Manager\obj\Release\Gamma Ma.17297764.Up2Date
+C:\Users\Sakura meishi\Desktop\Gamma-Manager-master\Gamma Manager\bin\Release\x86\System.Buffers.dll
+C:\Users\Sakura meishi\Desktop\Gamma-Manager-master\Gamma Manager\bin\Release\x86\System.Memory.dll
+C:\Users\Sakura meishi\Desktop\Gamma-Manager-master\Gamma Manager\bin\Release\x86\System.Numerics.Vectors.dll
+C:\Users\Sakura meishi\Desktop\Gamma-Manager-master\Gamma Manager\bin\Release\x86\System.Resources.Extensions.dll
+C:\Users\Sakura meishi\Desktop\Gamma-Manager-master\Gamma Manager\bin\Release\x86\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Sakura meishi\Desktop\Gamma-Manager-master\Gamma Manager\bin\Release\x86\System.Memory.xml
+C:\Users\Sakura meishi\Desktop\Gamma-Manager-master\Gamma Manager\bin\Release\x86\System.Buffers.xml
+C:\Users\Sakura meishi\Desktop\Gamma-Manager-master\Gamma Manager\bin\Release\x86\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Sakura meishi\Desktop\Gamma-Manager-master\Gamma Manager\bin\Release\x86\System.Numerics.Vectors.xml
