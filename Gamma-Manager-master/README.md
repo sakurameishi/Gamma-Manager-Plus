@@ -19,8 +19,8 @@
 
 ## Installation
 
-1.  Download the latest release from the Releases page (if available) or build from source.
-2.  Run `Gamma Manager.exe`.
+1.  Download `Gamma.Manager.exe` from the [latest release](https://github.com/sakurameishi/Gamma-Manager-Plus/releases/latest).
+2.  Run `Gamma.Manager.exe`.
 3.  No installation is required.
 
 ## Usage Guide
@@ -61,12 +61,12 @@ Bind keyboard shortcuts to your presets for instant switching while in-game or w
 
 ## Building from Source
 
-To build the project locally, you need Visual Studio 2019/2022 with the .NET Desktop Development workload.
+To build the project locally, use Visual Studio 2019/2022 with the .NET Desktop Development workload and the .NET Framework 4.7.2 targeting pack.
 
 1.  Clone this repository.
 2.  Open `Gamma Manager.sln` in Visual Studio.
-3.  Restore NuGet packages.
-4.  Build the solution (Release mode recommended).
+3.  Build the solution in Release mode.
+4.  Publish `Gamma Manager.exe` from the Release output directory as `Gamma.Manager.exe`.
 
 ## License
 This project is licensed under the [CC0 1.0 Universal](LICENSE.txt) (Public Domain Dedication).
